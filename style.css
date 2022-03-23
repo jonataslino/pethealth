@@ -26,6 +26,7 @@ form{
 h1{
 
     color: white;
+              
 }
 
 input{
@@ -95,6 +96,11 @@ button[type=submit]{
     box-sizing: border-box;
     font-size: 100%;
       
+}
+
+p{
+
+    font-size: 23px;
 }
 
 
